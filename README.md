@@ -8,8 +8,8 @@ I’m an *MCA-SANDWICH (1st Year) student* with a strong interest in *Data Analy
 ### 🚀 About Me
 - 🎓 MCA-SANDWICH – 1st Year Student  
 - 📊 Aspiring Data Analyst  
-- 🧠 Strong foundation in SQL and Java  
-- ☁ AWS Certified
+- 🧠 Strong foundation in SQL and Java python 
+- ☁ AWS Certified with hands-on cloud exposure
 - ☁ SQL Certified  
 - 🌱 Actively learning through practice and projects  
 
