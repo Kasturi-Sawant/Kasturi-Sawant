@@ -8,19 +8,19 @@ I’m an *MCA-SANDWICH (1st Year) student* with a strong interest in *Data Analy
 ### 🚀 About Me
 - 🎓 MCA-SANDWICH – 1st Year Student  
 - 📊 Aspiring Data Analyst  
-- 🧠 Strong foundation in SQL and Java, python 
+- 🧠 Strong foundation in SQL and Java, python and data concepts
 - ☁ AWS Certified with hands-on cloud exposure
-- ☁ SQL Certified  
+- 🧮 SQL IBM Certified  
 - 🌱 Actively learning through practice and projects  
 
 Here you’ll find:
 - 📈 Data analysis and reporting work  
 - 🧮 SQL queries and database practice  
 - ☕ Java programs and logic building
-- ☁ Python programs 
+- 🐍 Python programs and problem solving
 - ☁ Cloud & analytics learning projects  
 
----
+I enjoy working with data, solving logical problems, and turning information into meaningful insights.
 
 ### 🛠 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -34,17 +34,4 @@ Here you’ll find:
 ### 🌐 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings
 
-<!--
-**Kasturi-Sawant/Kasturi-Sawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
