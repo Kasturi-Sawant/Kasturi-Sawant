@@ -25,7 +25,7 @@ I enjoy working with data, solving logical problems, and turning information int
 ### 🛠 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![AWT](https://img.shields.io/badge/AWT-Advance%20Web%20Technology-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://en.wikipedia.org/wiki/Web_development)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
