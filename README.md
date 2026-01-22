@@ -32,6 +32,6 @@ I enjoy working with data, solving logical problems, and turning information int
 ---
 
 ### 🌐 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings
+- 🔗 LinkedIn: 
 
 
